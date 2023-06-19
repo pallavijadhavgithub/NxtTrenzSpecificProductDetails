@@ -1,6 +1,6 @@
 // Write your code here
 import {Component} from 'react'
-import {Loader} from 'react-loader-spinner'
+import Loader from 'react-loader-spinner'
 import {Link} from 'react-router-dom'
 import {BsPlusSquare, BsDashSquare} from 'react-icons/bs'
 import Cookies from 'js-cookie'
